@@ -1,0 +1,29 @@
+.MainDiv {
+  margin: 150px;
+}
+
+.counter {
+  font-size: 40px;
+  font-weight: 1000;
+  margin: 50px;
+}
+
+.add-sub {
+  margin: 20px;
+}
+
+.mul-div {
+  margin: 20px;
+}
+
+.button-style{
+  margin: 3px;
+}
+
+.myBtn{
+  width: 100px;
+}
+
+.input-num{
+  padding-left: 3px !important;
+}
